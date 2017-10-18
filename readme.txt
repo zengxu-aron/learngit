@@ -1,4 +1,4 @@
 disafsdf
 Git tracks changes
 dasfjg dsafj
-Creating a new branch is quick
+Creating a new branch is quick & simple
